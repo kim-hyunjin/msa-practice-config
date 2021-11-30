@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000 # 하루
-  secret: application_secret#1
+  secret: application_secret#2
 
 gateway:
   ip: 127.0.0.1
