@@ -7,3 +7,5 @@ spring:
 
 order_service:
   url: http://order-service/order-service/%s/orders # eureka에 등록된 application name 사용
+  exception:
+    orders_is_empty: User's orders is empty
